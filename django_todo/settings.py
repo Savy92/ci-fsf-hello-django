@@ -29,7 +29,8 @@ SECRET_KEY = 'django-insecure-rm^ne^&n69pz(hrq+sz-wklr&i%mbv3v$u5_rei!pk(z4gj_4g
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['8000-savy92-ci-fsf-hello-djan-u7itrc7xue.us2.codeanyapp.com']
+ALLOWED_HOSTS = ['8000-savy92-ci-fsf-hello-djan-u7itrc7xue.us2.codeanyapp.com',
+                 'hello-django-savy-bf6ed9747a09.herokuapp.com']
 
 
 # Application definition
